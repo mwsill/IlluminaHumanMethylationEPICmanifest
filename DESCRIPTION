@@ -1,0 +1,18 @@
+Package: IlluminaHumanMethylationEPICmanifest
+Version: 0.4.0
+Title: Manifest for Illumina's EPIC methylation arrays
+Description: A manifest package for Illumina's EPIC methylation arrays. 
+Updated to latest manifest version B4 by Martin Sill.
+Authors@R: c(person(c("Kasper", "Daniel"), "Hansen", role = c("cre", "aut"),
+                    email = "kasperdanielhansen@gmail.com"))
+License: Artistic-2.0
+URL: https://bitbucket.com/kasperdanielhansen/Illumina_EPIC
+BugReports:
+        https://bitbucket.com/kasperdanielhansen/Illumina_EPIC/issues
+Depends: R (>= 3.4.0), minfi (>= 1.22.1)
+LazyData: yes
+biocViews: IlluminaChip, Homo_sapiens, DNAMethylation
+NeedsCompilation: no
+Packaged: 2016-03-20 19:46:38 UTC; khansen
+Author: Kasper Daniel Hansen [cre, aut]
+Maintainer: Kasper Daniel Hansen <kasperdanielhansen@gmail.com>
