@@ -6,7 +6,7 @@
 }
 \description{
   This object contains the array design for Illumina's Human Methylation
-  EPIC microarray. Based on the v1.0b2 version of the manifest file.
+  EPIC microarray. Based on the v1.0b4 version of the manifest file.
 }
 \usage{data(IlluminaHumanMethylationEPICmanifest)}
 \details{
